@@ -10,17 +10,17 @@ La Clase servidor intenta simular un servidor de servicios REST, y despues consu
 # ************************************
 # Integrantes 
 
-# Edwin Alfonso Correa Torres
-# Codigo: 20211099024
+Edwin Alfonso Correa Torres
+Codigo: 20211099024
 
-# Jonathan Campos Lozano
-# Codigo: 20211099023
+Jonathan Campos Lozano
+Codigo: 20211099023
 
-# Javier Augusto Fernández Palma
-# Código: 20211099026
+Javier Augusto Fernández Palma
+Código: 20211099026
 
 # ************************************
 # Librerias necesarias
 
-# pip install pyquery
-# pip install requests
+pip install pyquery
+pip install requests
